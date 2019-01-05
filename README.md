@@ -1,0 +1,1 @@
+# C-Pengiriman-parameter-fungsi-berupa-array-dimensi-1
